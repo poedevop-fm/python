@@ -165,5 +165,5 @@ print(liste.index(17))
 # enlever l'élément 38 et afficher la liste
 liste.remove(38)
 print(liste)
-# afficher la sous liste, du 3eme element jusqu'à la fin de la liste
+# afficher la sous liste, du 3eme element jusqu'à la fin de la liste.
 print(liste[2:])
